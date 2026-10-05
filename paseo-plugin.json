@@ -1,0 +1,6 @@
+{
+  "id": "worktreeinclude",
+  "requirements": {
+    "paseo": ">=0.10.3"
+  }
+}
