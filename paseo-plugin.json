@@ -1,5 +1,5 @@
 {
-  "id": "worktreeinclude",
+  "id": "paseo-worktreeinclude",
   "requirements": {
     "paseo": ">=0.10.3"
   }

@@ -13,6 +13,14 @@ config/secrets.json
 
 ## Install
 
+Requires Paseo 0.10.3 or later.
+
+```bash
+paseo plugin install npm:@cprecioso/paseo-worktreeinclude
+```
+
+Or from GitHub:
+
 ```bash
 paseo plugin install github:cprecioso/paseo-worktreeinclude
 ```
