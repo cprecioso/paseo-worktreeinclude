@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "files": [
     "paseo-plugin.json",
+    "OVERVIEW.md",
     "index.server.ts",
     "server/"
   ],
